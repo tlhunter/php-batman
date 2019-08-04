@@ -8,6 +8,10 @@ However it became too much of a chore to maintain. So, I'm finally open sourcing
 
 At the height of its career the page would be requested hundreds of times a day. Now it's requested about 25 times per day.
 
+# Screenshot
+
+![Batman Comic Generator](screenshot.png)
+
 # License
 
 * The code is BSD 2 Clause.
